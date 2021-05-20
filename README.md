@@ -2,6 +2,10 @@
 
 This is my configuration of [dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) with a bunch of patches enabled.
 
+## Preview
+
+![Preview of dmenu](https://raw.githubusercontent.com/Zaedus/dmenu-arc/master/preview.png)
+
 ## General Info
 
 Not a whole lot of information is going to be on here, so go to the [main repo](https://github.com/Zaedus/arc-dotfiles) for more info.
